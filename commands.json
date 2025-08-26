@@ -2,11 +2,8 @@
   "commands": [
     "clear A8",
     "flag C3",
-<<<<<<< HEAD
     "flag D2",
-    "Clear H8"
-=======
-    "flag D2"
->>>>>>> b4ca67a (Flag fields with mines)
+    "Clear H8",
+    "Clear H7"
   ]
 }
